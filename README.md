@@ -144,4 +144,4 @@ plt.show()
 
 
 ## Result:
-Thus the edges are detected using Sobel, Laplacian, and Canny edge detectors.
+Thus the edges are detected using Sobel, Laplacian, and Canny edge detectors..
